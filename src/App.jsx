@@ -1,9 +1,9 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
-import Index from './components/users/index.jsx'
 import Create from './components/users/Create.jsx'
 import Details from './components/users/Details.jsx'
 import Edit from './components/users/Edit.jsx'
+import Index from './components/users/Index.jsx'
 export default function App() {
   return (
 <>
